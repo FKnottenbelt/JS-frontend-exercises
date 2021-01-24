@@ -1,0 +1,16 @@
+button {
+  margin-bottom: 1em;
+}
+
+.wrong {
+  color: red;
+}
+
+.correct {
+  color: #4caf50;
+}
+
+textarea {
+  margin-top: 1em;
+}
+

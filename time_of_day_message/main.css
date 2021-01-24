@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  width: 5em;
+  height: 5em;
+}
+
+.output {
+  text-align: center;
+}
+
+.morning {
+  background-color: lightblue;
+}
+
+.afternoon {
+  background-color: lightyellow;
+}
+
+.evening {
+  background-color: black;
+  color: white;
+}
