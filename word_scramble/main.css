@@ -1,0 +1,16 @@
+.hidden {
+  visibility: hidden;
+}
+
+.input {
+  display: flex;
+}
+
+.header {
+  display: flex;
+}
+
+.btn-start {
+  margin-left: 1em;
+}
+
