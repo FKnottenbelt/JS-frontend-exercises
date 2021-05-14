@@ -1,0 +1,20 @@
+.game {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  flex-wrap: wrap;
+  border: 3px solid black;
+}
+
+.box {
+  width: 50%;
+  height: 50%;
+  color: black;
+  text-align: center;
+  opacity: 0.5;
+}
+
+.active {
+  color: red;
+  opacity: 1;
+}
